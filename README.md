@@ -8,6 +8,8 @@ Extensions for Finder and MacBook Pro with Touch Bar to automate simple tasks.
 Automatically convert one or more Word documents selected in the Finder to PDF. Saved in the same folder.
 
 Accessible via three ways:
+----- | -----
+ca. 1.8 - 2.10 s + 8 s for response | ca. 6.5 s
 * Right-click menu
 * Finder window
 * MacBook Pro Touch Bar
@@ -33,10 +35,12 @@ Select ```Go > Go to Folder...```
 
 3. Enter the Library/Services folder ```pathname``` and select ```Go```. Pathname: ```/Users/your_username/Library/Services/```
 ![Step 3](/img/12-Adding-Quick-Action-Extensions.png?raw=true "Go to Library/Services folder...")
-* The Services folder for adding extensions is now open.
+The Services folder for adding extensions is now open.
 
 4. Open the downloaded ZIP file ```macOS-quick-actions-main``` and select ```.workflow``` files.
 ![Step 4](/img/000-zip-file.png?raw=true "Open ZIP file")
 
-5. Drag and drop ```.workflow``` files to the Library/Services folder
+5. Drag and drop ```.workflow``` files to the open Library/Services folder.
 ![Step 5](/img/13-Adding-Quick-Action-Extensions.png?raw=true "Drag and drop files")
+
+## 
