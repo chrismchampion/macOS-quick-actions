@@ -6,7 +6,8 @@ Extensions for Finder and MacBook Pro with Touch Bar to automate simple tasks.
 ## Overview
 
 ### 1. Convert to PDF (Convert to PDF.workflow)
-Automatically convert one or more Word documents selected in the Finder to PDF. Saved in the same folder.
+Convert one or more Microsoft Word documents selected in the Finder to PDF. Automatically saved in the same folder.
+> Note: Requires Microsoft® Word standard installation. Tested with Word for Mac 16.44.
 
 Accessible via three ways:
 * Right-click menu
