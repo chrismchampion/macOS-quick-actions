@@ -3,9 +3,9 @@
 Extensions for Finder and MacBook Pro with Touch Bar to automate simple tasks.
 ![Touch Bar Quick Actions](/img/10-touch-bar-quick-actions.png?raw=true "Touch Bar Quick Actions")
 
-## Overview
+# Overview
 
-### 1. Convert to PDF (Convert to PDF.workflow)
+## Convert to PDF (Convert to PDF.workflow)
 Convert one or more Microsoft Word documents selected in the Finder to PDF. Automatically saved in the same folder.
 > Note: Requires Microsoft® Word standard installation. Tested with Word for Mac 16.44.
 
@@ -17,7 +17,7 @@ Accessible via three ways:
 * MacBook Pro Touch Bar
 > ![Touch Bar Quick Actions](/img/10-touch-bar-quick-actions.png?raw=true "Touch Bar Quick Actions")
 
-### 2. Create a new Reminder (New Reminder.workflow)
+## Create a new Reminder (New Reminder.workflow)
 Quickly add a new reminder to your ```Reminders``` list.
 > ![New Reminder 1](/img/new-reminder-1-500px.png?raw=true "New Reminder 1")
 > ![New Reminder 2](/img/new-reminder-2-500px.png?raw=true "New Reminder 2")
@@ -25,14 +25,14 @@ Quickly add a new reminder to your ```Reminders``` list.
 Accessible via:
 * MacBook Pro Touch Bar
 
-### 3. Show/Hide the Dock (Show Dock.workflow)
+## Show/Hide the Dock (Show Dock.workflow)
 Simply show or hide the Dock.
 
 Accessible via:
 * MacBook Pro Touch Bar
 
 
-## Setup (5 Steps)
+# Setup (5 Steps)
 
 1. Download ZIP file.
 ![Step 1](/img/00-github-download-zip.png?raw=true "Download ZIP")
@@ -55,7 +55,7 @@ The Services folder for adding extensions is now open.
 5. Drag and drop ```.workflow``` files to the open Library/Services folder.
 ![Step 5](/img/13-Adding-Quick-Action-Extensions.png?raw=true "Drag and drop files")
 
-## Toggle Settings (3 Steps)
+# Toggle Settings (3 Steps)
 
 Adjusting settings to use extensions with the Finder and MacBook Pro Touch Bar.
 
