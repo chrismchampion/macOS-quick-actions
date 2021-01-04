@@ -34,7 +34,7 @@ Accessible via:
 
 # Setup (5 Steps)
 
-1. Download ZIP file.
+1. Download ZIP file from this page.
 ![Step 1](/img/00-github-download-zip.png?raw=true "Download ZIP")
 
 2. Open Library/Services folder
