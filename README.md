@@ -7,7 +7,7 @@ Extensions for Finder and MacBook Pro with Touch Bar to automate simple tasks.
 - [Extensions Overview](#extensions-overview)
   * Convert to PDF(#convert-to-pdf-convert-to-pdfworkflow)
   * Create a new Reminder(#create-a-new-reminder-new-reminderworkflow)
-  * Show/Hide the Dock (#showhide-the-dock-show-dockworkflow)
+  * Show/Hide the Dock(#showhide-the-dock-show-dockworkflow)
 - [Setup (5 Steps)](#setup-5-steps)
 - [Toggle Settings (3 Steps)](#toggle-settings-3-steps)  
 
