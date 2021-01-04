@@ -5,7 +5,7 @@ Extensions for Finder and MacBook Pro with Touch Bar to automate simple tasks.
 
 ## Overview
 
-### Convert to PDF
+### 1. Convert to PDF (Convert to PDF.workflow)
 Automatically convert one or more Word documents selected in the Finder to PDF. Saved in the same folder.
 
 Accessible via three ways:
@@ -16,7 +16,7 @@ Accessible via three ways:
 * MacBook Pro Touch Bar
 > ![Touch Bar Quick Actions](/img/10-touch-bar-quick-actions.png?raw=true "Touch Bar Quick Actions")
 
-### Create a new Reminder
+### 2. Create a new Reminder (New Reminder.workflow)
 Quickly add a new reminder to your ```Reminders``` list.
 > ![New Reminder 1](/img/new-reminder-1-500px.png?raw=true "New Reminder 1")
 > ![New Reminder 2](/img/new-reminder-2-500px.png?raw=true "New Reminder 2")
@@ -24,7 +24,7 @@ Quickly add a new reminder to your ```Reminders``` list.
 Accessible via:
 * MacBook Pro Touch Bar
 
-### Show/Hide the Dock
+### 3. Show/Hide the Dock (Show Dock.workflow)
 Simply show or hide the Dock.
 
 Accessible via:
