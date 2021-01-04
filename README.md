@@ -8,12 +8,10 @@ Extensions for Finder and MacBook Pro with Touch Bar to automate simple tasks.
 Automatically convert one or more Word documents selected in the Finder to PDF. Saved in the same folder.
 
 Accessible via three ways:
-| 
------ | -----
-ca. 1.8 - 2.10 s + 8 s for response | ca. 6.5 s
 * Right-click menu
 * Finder window
 * MacBook Pro Touch Bar
+![Touch Bar Quick Actions](/img/10-touch-bar-quick-actions.png?raw=true "Touch Bar Quick Actions")
 
 ### Create a new Reminder
 Quickly add a new reminder to your ```Reminders``` list.
