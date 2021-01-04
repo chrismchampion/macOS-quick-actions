@@ -9,7 +9,7 @@ Automatically convert one or more Word documents selected in the Finder to PDF. 
 
 Accessible via three ways:
 * Right-click menu
-![Right-click menu](/img/right-click-menu.png?raw=true "Right-click menu" width=100)
+![Right-click menu](/img/right-click-menu.png?raw=true width="100" "Right-click menu")
 * Finder window
 * MacBook Pro Touch Bar
 ![Touch Bar Quick Actions](/img/10-touch-bar-quick-actions.png?raw=true "Touch Bar Quick Actions")
