@@ -64,6 +64,10 @@ Adjusting settings to use extensions with the Finder and MacBook Pro Touch Bar.
 :-------------------------:|:-------------------------:
 ![](/img/01-sys-prefs-600px.png) | ![](/img/02-sys-prefs-kb-icon.png)
 
-2. Customize (touch bar) control strip.
+2. Customize control strip (touch bar) to add "Quick Actions" shortcut.
 ![](/img/03-sys-prefs-keyboard.png)
 ![](/img/04-customize-control-strip.png)
+
+> Note: Can be added to either persistent and/or to extended Touch Bar.
+> ![](/img/05-touch-bar.png)
+> ![](/img/06-touch-bar-ext.png)
