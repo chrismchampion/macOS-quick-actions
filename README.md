@@ -73,7 +73,7 @@ Adjust settings to your liking to use extensions with the Finder and MacBook Pro
 > ![](/img/05-touch-bar.png)
 > ![](/img/06-touch-bar-ext.png)
 
-3. Toggle On/Off in ```Extensions``` preferences.
+3. Toggle quick actions On/Off in ```Extensions``` preferences.
 
 | System Preferences             |  Extensions Preferences |
 :-------------------------:|:-------------------------:
