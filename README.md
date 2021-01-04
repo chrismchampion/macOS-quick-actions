@@ -33,7 +33,7 @@ Simply show or hide the Dock.
 From the **Finder** menu at the top of screen.
 Select ```Go > Go to Folder...```
 ![Step 2](/img/0000-go-menu.png?raw=true "Go menu")
-![Step 2](/img/11-Adding-Quick-Action-Extensions.png?raw=true "Go to Folder...")
+![Step 2](/img/11-Adding-Quick-Action-Extensions-400px.png?raw=true "Go to Folder...")
 
 (Alternatively, press ```shift + command⌘ + G```).
 
