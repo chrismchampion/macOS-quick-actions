@@ -14,4 +14,9 @@ From the **Finder** menu at the top of screen, select:
 or with a Finder window open press:
 ```command⌘ + shift + G```
 
-System Preferences > Keyboard > Customize Control Strip…
+![Step 2](/img/11-Adding-Quick-Action-Extensions.png?raw=true "Go to Folder...")
+
+3. Enter the Library/Services folder ```pathname``` and select ```Go```
+> /Users/your_username/Library/Services
+
+![Step 3](/img/12-Adding-Quick-Action-Extensions.png?raw=true "Go to Library/Services folder...")
