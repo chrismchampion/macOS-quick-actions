@@ -54,4 +54,15 @@ The Services folder for adding extensions is now open.
 5. Drag and drop ```.workflow``` files to the open Library/Services folder.
 ![Step 5](/img/13-Adding-Quick-Action-Extensions.png?raw=true "Drag and drop files")
 
-## 
+## Toggle Settings
+
+
+
+I'm having some problems formatting a README on github.
+
+This is the raw README:
+
+| Italic             |  Block letters |
+:-------------------------:|:-------------------------:
+![](/img/01-sys-prefs.png)
+![](/img/02-sys-prefs-kb-icon.png)
