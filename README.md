@@ -59,7 +59,7 @@ The Services folder for adding extensions is now open.
 
 Adjusting settings to use extensions with the Finder and MacBook Pro Touch Bar.
 
-1. Open Keyboard preferences.
+1. Open ```Keyboard``` preferences.
 
 | System Preferences             |  Keyboard Preferences |
 :-------------------------:|:-------------------------:
@@ -73,7 +73,7 @@ Adjusting settings to use extensions with the Finder and MacBook Pro Touch Bar.
 > ![](/img/05-touch-bar.png)
 > ![](/img/06-touch-bar-ext.png)
 
-3. Toggle On/Off in Extensions preferences.
+3. Toggle On/Off in ```Extensions``` preferences.
 
 | System Preferences             |  Extensions Preferences |
 :-------------------------:|:-------------------------:
