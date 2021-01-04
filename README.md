@@ -5,6 +5,7 @@ Extensions for Finder and MacBook Pro with Touch Bar to automate simple tasks.
 
 ##### Table of Contents  
 - [Extensions Overview](#extensions-overview)
+  * Convert to PDF (#convert-to-pdf-convert-to-pdfworkflow)
 - [Setup (5 Steps)](#setup-5-steps)
 - [Toggle Settings (3 Steps)](#toggle-settings-3-steps)  
 
