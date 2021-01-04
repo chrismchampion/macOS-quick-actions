@@ -31,8 +31,7 @@ Select ```Go > Go to Folder...```
 
 (Alternatively, press ```shift + command⌘ + G```).
 
-3. Enter the Library/Services folder ```pathname``` and select ```Go```.
-Pathname: ```/Users/your_username/Library/Services/```
+3. Enter the Library/Services folder ```pathname``` and select ```Go```. Pathname: ```/Users/your_username/Library/Services/```
 ![Step 3](/img/12-Adding-Quick-Action-Extensions.png?raw=true "Go to Library/Services folder...")
 * The Services folder for adding extensions is now open.
 
