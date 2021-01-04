@@ -4,9 +4,9 @@ Extensions for Finder and MacBook Pro with Touch Bar to automate simple tasks.
 ![Touch Bar Quick Actions](/img/10-touch-bar-quick-actions.png?raw=true "Touch Bar Quick Actions")
 
 ##### Table of Contents  
-- [Extensions Overview](#heading)
-- [Setup](#heading-1)
-- [Toggle Settings](#heading-2)  
+- [Extensions Overview](#extensions-overview)
+- [Setup (5 Steps)](#setup-5-steps)
+- [Toggle Settings (3 Steps)](#toggle-settings-3-steps)  
 
 # Extensions Overview
 
