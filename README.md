@@ -73,6 +73,8 @@ Adjusting settings to use extensions with the Finder and MacBook Pro Touch Bar.
 > ![](/img/06-touch-bar-ext.png)
 
 3. Toggle On/Off in Extensions preferences.
+
 | System Preferences             |  Extensions Preferences |
 :-------------------------:|:-------------------------:
 ![](/img/01-sys-prefs-600px.png) | ![](/img/07-sys-pref-extensions-icon.png)
+
