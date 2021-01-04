@@ -8,9 +8,9 @@ Extensions for Finder and MacBook Pro with Touch Bar to automate simple tasks.
 Automatically convert one or more Word documents selected in the Finder to PDF. Saved in the same folder.
 
 Accessible via three ways:
-1. Right click menu
-2. Finder window shortcut
-3. MacBook Pro Touch Bar
+* Right-click menu
+* Finder window
+* MacBook Pro Touch Bar
 
 ### Create a new Reminder
 Quickly add a new reminder to your ```Reminders``` list.
@@ -28,7 +28,8 @@ From the **Finder** menu at the top of screen.
 Select ```Go > Go to Folder...```
 ![Step 2](/img/0000-go-menu.png?raw=true "Go menu")
 ![Step 2](/img/11-Adding-Quick-Action-Extensions.png?raw=true "Go to Folder...")
-(Alternatively, with a Finder window open, press ```shift + command⌘ + G```.
+
+(Alternatively, press ```shift + command⌘ + G```).
 
 3. Enter the Library/Services folder ```pathname``` and select ```Go```. Pathname:
 > /Users/your_username/Library/Services/
