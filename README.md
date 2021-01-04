@@ -56,13 +56,7 @@ The Services folder for adding extensions is now open.
 
 ## Toggle Settings
 
-
-
-I'm having some problems formatting a README on github.
-
-This is the raw README:
-
-| Italic             |  Block letters |
+| System Preferences             |  Keyboard Preferences |
 :-------------------------:|:-------------------------:
-![](/img/01-sys-prefs.png)
+![](/img/01-sys-prefs-300px.png)
 ![](/img/02-sys-prefs-kb-icon.png)
