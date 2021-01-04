@@ -13,7 +13,7 @@ Accessible via three ways:
 * Finder window
 > ![Finder window](/img/finder-window-300px.png?raw=true "Finder window")
 * MacBook Pro Touch Bar
-![Touch Bar Quick Actions](/img/10-touch-bar-quick-actions.png?raw=true "Touch Bar Quick Actions")
+> ![Touch Bar Quick Actions](/img/10-touch-bar-quick-actions.png?raw=true "Touch Bar Quick Actions")
 
 ### Create a new Reminder
 Quickly add a new reminder to your ```Reminders``` list.
