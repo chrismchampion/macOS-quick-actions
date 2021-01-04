@@ -54,7 +54,7 @@ The Services folder for adding extensions is now open.
 5. Drag and drop ```.workflow``` files to the open Library/Services folder.
 ![Step 5](/img/13-Adding-Quick-Action-Extensions.png?raw=true "Drag and drop files")
 
-## Toggle Settings
+## Toggle Settings (3 Steps)
 
 Adjusting settings to use extensions with the Finder and MacBook Pro Touch Bar.
 
@@ -71,3 +71,8 @@ Adjusting settings to use extensions with the Finder and MacBook Pro Touch Bar.
 > Note: Can be added to either persistent and/or to extended Touch Bar.
 > ![](/img/05-touch-bar.png)
 > ![](/img/06-touch-bar-ext.png)
+
+3. Toggle On/Off in Extensions preferences.
+| System Preferences             |  Extensions Preferences |
+:-------------------------:|:-------------------------:
+![](/img/01-sys-prefs-600px.png) | ![](/img/07-sys-pref-extensions-icon.png)
