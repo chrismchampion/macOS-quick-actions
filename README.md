@@ -1,4 +1,7 @@
 # macOS Quick Action Extensions
-## For Finder and MacBook Pro with Touch Bar
+
+Extensions for Finder and MacBook Pro with Touch Bar to automate simple tasks.
+
+## Setup and Usage
 
 System Preferences > Keyboard > Customize Control Strip…
