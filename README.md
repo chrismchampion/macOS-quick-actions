@@ -21,8 +21,15 @@ Quickly add a new reminder to your ```Reminders``` list.
 > ![New Reminder 1](/img/new-reminder-1-500px.png?raw=true "New Reminder 1")
 > ![New Reminder 2](/img/new-reminder-2-500px.png?raw=true "New Reminder 2")
 
+Accessible via:
+* MacBook Pro Touch Bar
+
 ### Show/Hide the Dock
 Simply show or hide the Dock.
+
+Accessible via:
+* MacBook Pro Touch Bar
+
 
 ## Setup (5 Steps)
 
