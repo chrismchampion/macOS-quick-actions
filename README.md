@@ -78,3 +78,5 @@ Adjusting settings to use extensions with the Finder and MacBook Pro Touch Bar.
 :-------------------------:|:-------------------------:
 ![](/img/01-sys-prefs-600px.png) | ![](/img/07-sys-pref-extensions-icon.png)
 
+![](/img/08-sys-pref-extensions-Finder.png)
+![](/img/09-sys-pref-extensions-Touch-Bar.png)
