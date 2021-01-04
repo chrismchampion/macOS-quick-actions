@@ -58,5 +58,4 @@ The Services folder for adding extensions is now open.
 
 | System Preferences             |  Keyboard Preferences |
 :-------------------------:|:-------------------------:
-![](/img/01-sys-prefs-300px.png)
-![](/img/02-sys-prefs-kb-icon.png)
+![](/img/01-sys-prefs-300px.png) | ![](/img/02-sys-prefs-kb-icon.png)
