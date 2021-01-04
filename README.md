@@ -3,6 +3,11 @@
 Extensions for Finder and MacBook Pro with Touch Bar to automate simple tasks.
 ![Touch Bar Quick Actions](/img/10-touch-bar-quick-actions.png?raw=true "Touch Bar Quick Actions")
 
+##### Table of Contents  
+- [Extensions Overview](#heading)
+- [Setup](#heading-1)
+- [Toggle Settings](#heading-2)  
+
 # Extensions Overview
 
 ## Convert to PDF (Convert to PDF.workflow)
@@ -54,6 +59,7 @@ The Services folder for adding extensions is now open.
 
 5. Drag and drop ```.workflow``` files to the open Library/Services folder.
 ![Step 5](/img/13-Adding-Quick-Action-Extensions.png?raw=true "Drag and drop files")
+
 
 # Toggle Settings (3 Steps)
 
