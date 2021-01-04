@@ -17,6 +17,7 @@ Accessible via three ways:
 
 ### Create a new Reminder
 Quickly add a new reminder to your ```Reminders``` list.
+> ![New Reminder 1](/img/new-reminder-1.png?raw=true "New Reminder 1")
 
 ### Show/Hide the Dock
 Simply show or hide the Dock.
