@@ -8,6 +8,7 @@ Extensions for Finder and MacBook Pro with Touch Bar to automate simple tasks.
   * [Convert to PDF](#convert-to-pdf-convert-to-pdfworkflow)
   * [Create a new Reminder](#create-a-new-reminder-new-reminderworkflow)
   * [Show/Hide the Dock](#showhide-the-dock-show-dockworkflow)
+  * [Login Soft Launch](#Login Soft Launch)
 - [Setup (5 Steps)](#setup-5-steps)
 - [Toggle Settings (3 Steps)](#toggle-settings-3-steps)  
 
@@ -38,6 +39,12 @@ Simply show or hide the Dock.
 
 Accessible via:
 * MacBook Pro Touch Bar
+
+
+## Login Soft Launch
+
+Automator app and accompanying AppleScript for launching applications and hiding their windows for a clean or "soft" login experience. Developed because standard "Hide" function in ```System Preferences > Users & Groups > Login Items``` is unreliable.
+![Login Items](/img/login-items.png?raw=true "Login Items")
 
 
 # Setup (5 Steps)
